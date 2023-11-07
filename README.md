@@ -1,2 +1,4 @@
-# CSE360_HelloGithub
-This is a practice of Github during the course CSE 360
+# cse360_helloworld
+This repository is to serve as CSE360 GitHub tutorial.
+
+This is a change reflecting a commit done by Tinh Nguyen.
